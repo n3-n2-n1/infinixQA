@@ -1,0 +1,19 @@
+{
+  "name": "iqa-back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n3-n2-n1/infinixQA.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/n3-n2-n1/infinixQA/issues"
+  },
+  "homepage": "https://github.com/n3-n2-n1/infinixQA#readme"
+}
