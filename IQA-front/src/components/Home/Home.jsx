@@ -5,7 +5,8 @@ import React from 'react'
 
 const Home = () => {
   return(
-    <div>Hi InfinixQA</div>
+    <div>Quality Assurance 
+    From Real Experts</div>
   )
 }
 
