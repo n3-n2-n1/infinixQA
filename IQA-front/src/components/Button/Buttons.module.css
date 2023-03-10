@@ -1,0 +1,55 @@
+.cta1Cont{
+
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    
+    position: absolute;
+    width: 130px;
+    height: 44px;
+    left: 156px;
+    top: 2256px;
+    width: 130px;
+    height: 44px;
+
+    
+    
+}
+
+.ctaBtn1{
+/* Frame 107 */
+
+/* Auto layout */
+
+/* Frame 104 */
+
+
+/* Blanco */
+background: #FFFFFF;
+border-radius: 200px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+}
+/* Contact Us */
+
+.a {position: absolute;
+width: 90px;
+height: 16px;
+left: calc(50% - 90px/2 - 2px);
+top: 15px;
+
+font-family: 'Epilogue';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+text-align: center;
+color: #000000;
+}
+
+/* Negro */
